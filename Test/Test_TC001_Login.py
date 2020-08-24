@@ -1,7 +1,5 @@
 import unittest
-from time import sleep
-from src.BaseClass import EnvironmentSetup
-from src.Utility import *
+from BaseClass import EnvironmentSetup
 
 
 class TC001_login(EnvironmentSetup):
